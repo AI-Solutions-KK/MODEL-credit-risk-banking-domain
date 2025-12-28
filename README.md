@@ -2,6 +2,8 @@
 
 ## 1. Project Overview
 
+![snap](snap_1.png)
+
 This repository contains a **production-ready FastAPI inference service** for a trained **Credit Risk Machine Learning model**.
 
 The purpose of this project is to:
@@ -16,7 +18,7 @@ The purpose of this project is to:
 ---
 
 ## 2. What This Project Does
-
+- Can be used in any UI - web/desktop/mobile.
 - Loads a pre-trained Credit Risk model (`joblib`)
 - Accepts structured customer financial data
 - Computes:
